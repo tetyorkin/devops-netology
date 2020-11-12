@@ -11,3 +11,4 @@
 
  - Файлы с расширением .terraformrc и файл с именем terraform.rc
 
+# add new line
